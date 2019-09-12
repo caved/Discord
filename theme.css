@@ -1,7 +1,7 @@
 @import "https://omgdani.github.io/ClearVisionFixes/ClearVisionFixes.css";
 .channels-wrap > [class*="container"]:last-child::after{
     content:"ClearVision v5.2.5";
-    color:#fff;
+    color:#2780E6;
     font-size:11px;
     font-weight:700;
     text-align:center;
@@ -760,7 +760,7 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small{
     background:transparent
 }
 .chat .divider>span{
-    color:#F1F1F1
+    color:#2780E6
 }
 .message-group .comment .markup pre,.theme-dark .message-group .comment .markup pre{
     background:rgba(0,0,0,0.42);
